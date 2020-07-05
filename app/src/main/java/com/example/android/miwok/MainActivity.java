@@ -22,6 +22,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
 
+/* homepage that contains the categories for the language */
 public class MainActivity extends AppCompatActivity {
 
     @Override
